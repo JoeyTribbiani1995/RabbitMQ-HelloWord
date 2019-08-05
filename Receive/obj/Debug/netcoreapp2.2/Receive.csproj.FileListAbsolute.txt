@@ -1,0 +1,11 @@
+/Users/VoPhanHongDung/Desktop/Receive/bin/Debug/netcoreapp2.2/Receive.deps.json
+/Users/VoPhanHongDung/Desktop/Receive/bin/Debug/netcoreapp2.2/Receive.runtimeconfig.json
+/Users/VoPhanHongDung/Desktop/Receive/bin/Debug/netcoreapp2.2/Receive.runtimeconfig.dev.json
+/Users/VoPhanHongDung/Desktop/Receive/bin/Debug/netcoreapp2.2/Receive.dll
+/Users/VoPhanHongDung/Desktop/Receive/bin/Debug/netcoreapp2.2/Receive.pdb
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.csprojAssemblyReference.cache
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.csproj.CoreCompileInputs.cache
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.AssemblyInfoInputs.cache
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.AssemblyInfo.cs
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.dll
+/Users/VoPhanHongDung/Desktop/Receive/obj/Debug/netcoreapp2.2/Receive.pdb

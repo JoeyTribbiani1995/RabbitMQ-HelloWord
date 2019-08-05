@@ -1,0 +1,11 @@
+/Users/VoPhanHongDung/Desktop/Send/bin/Debug/netcoreapp2.2/Send.deps.json
+/Users/VoPhanHongDung/Desktop/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.json
+/Users/VoPhanHongDung/Desktop/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.dev.json
+/Users/VoPhanHongDung/Desktop/Send/bin/Debug/netcoreapp2.2/Send.dll
+/Users/VoPhanHongDung/Desktop/Send/bin/Debug/netcoreapp2.2/Send.pdb
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.csprojAssemblyReference.cache
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.csproj.CoreCompileInputs.cache
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfoInputs.cache
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfo.cs
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.dll
+/Users/VoPhanHongDung/Desktop/Send/obj/Debug/netcoreapp2.2/Send.pdb
